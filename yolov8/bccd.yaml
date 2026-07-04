@@ -1,0 +1,10 @@
+# BCCD blood-cell dataset for Ultralytics YOLOv8
+path: D:\Project\基于YOLO5细胞检测实战\BCCDDataSet
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: Platelets
+  1: RBC
+  2: WBC
